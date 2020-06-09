@@ -1,6 +1,3 @@
-# GHS_research
-
-## since 2020
 
 ### GHS 高级语言是人类第一生产力
 
